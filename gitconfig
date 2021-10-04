@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thomasflaherty990@gmail.com
+	name = thomas flaherty
